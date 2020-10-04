@@ -1,3 +1,7 @@
+## Must watch
+
+Watch this [video](https://www.youtube.com/watch?v=7eh4d6sabA0&feature=youtu.be) and you may not need to read further.
+
 ### Anaconda
 
 1. Click [Anaconda](https://www.anaconda.com/products/individual) Downlaod link
